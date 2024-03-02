@@ -1,5 +1,5 @@
 [![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)](https://www.linkedin.com/in/huyenk-do/)
-<h1 align="center">Hi 👋, I'm Huyen Do</h1>
+<h1 align="center">Hi 👋, I'm Huyen</h1>
 <h3 align="center">Currently on an adventure to learn to code like hackers in Hollywood movies!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Bpbu2-YNL6cAAAAM/hacker-pupper-dog.gif">
 
