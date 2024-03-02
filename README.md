@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyenkdo&label=Profile%20views&color=0e75b6&style=flat" alt="huyenkdo" /> </p>
 
-- 🔭 I’m currently working on **a website for a fictive Financial company**
+- 🔭 I’m currently working on [a website for a fictive Financial company](https://huyenkdo.github.io/Financial-website-project/)
 
 - 🌱 I’m currently learning **Frameworks, front-end and back-end skills**
 
