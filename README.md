@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyenkdo&label=Profile%20views&color=0e75b6&style=flat" alt="huyenkdo" /> </p>
 
-- 🔭 I’m currently working on [SelfCoach, a PWA that buils personnalised training plans for runners](https://www.selfcoach.tech)
+- 🔭 I’m currently working on [SelfCoach, a PWA that builds personnalised training plans for runners](https://www.selfcoach.tech)
 
 - 🌱 I’m currently learning **Frameworks, front-end and back-end skills**
 
